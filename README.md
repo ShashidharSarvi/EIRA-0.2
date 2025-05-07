@@ -1,5 +1,4 @@
-# MIT license  
-# EIRA-0.2
+ # EIRA-0.2
 
 Multimodal medical QA using LLaMA-2 + BLIP. No need for 245MB of PyTorch or huge infrastructure—this model runs directly with Hugging Face transformers and a GPU. Focus is on image-text to free-form clinical QA. Designed for research, reproducibility, and speed.  
 Architecture: BLIP (image encoder) → cross-attn → LLaMA-2 decoder.  
